@@ -18,13 +18,13 @@
     text-align: center;
     background-image: url("../images/background.jpg");
 }
-audio
+.audio
 {
     display: block;
     position: fixed;
     bottom: 10px;
     right: 10px;
-    width: 48px;
+    width: 300px;
 }
 .status
 {

@@ -22,13 +22,13 @@
 .wapper
 {
 }
-audio
+.audio
 {
     display: block;
     position: fixed;
     top: 588px;
     right: 10px;
-    width: 48px;
+    width: 300px;
 }
 .status
 {
